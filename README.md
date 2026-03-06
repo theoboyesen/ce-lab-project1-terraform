@@ -1,4 +1,4 @@
-# Lab M4.09 - Recreate Project 1 with Terraform
+# Three tier architecture with Terraform
 
 ## Architecture
 - VPC with 6 subnets across 2 AZs
